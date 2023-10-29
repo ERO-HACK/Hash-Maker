@@ -8,3 +8,10 @@ first convert to HASH then send and when it reaches your friend,
 the desired hash will be removed from the hash. And get to the original password.
 ----------------------------------------------------------------------------------
 ![Capture](https://github.com/ERO-HACK/Hash-Maker/assets/72475141/f0a19d97-50ee-4192-99a3-e3d1720e8a90)
+
+Install...
+-------------------------------------
+1- git clone https://github.com/ERO-HACK/Hash-Maker
+2- cd Hash-Maker
+3- python Hash-Maker.py
+-------------------------------------
